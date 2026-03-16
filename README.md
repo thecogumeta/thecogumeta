@@ -1,16 +1,44 @@
-## Hi there 👋
+<h1 align="center">Cogu</h1>
 
-<!--
-**thecogumeta/thecogumeta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Software & Systems Developer
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  TypeScript • Python • C++ • Luau • JavaScript
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### What I Work On
+
+- Backend systems and developer tooling
+- Automation scripts and utilities
+- Experiments with low-level programming
+- Scalable application architecture
+- Open-source projects and learning tools
+
+---
+
+### Areas of Interest
+
+- Systems programming
+- Performance-oriented code
+- Clean architecture & modular design
+- Developer productivity tooling
+- Strong typing and maintainable codebases
+
+---
+
+### Development Principles
+
+- Keep systems simple and predictable
+- Prefer clarity over unnecessary abstraction
+- Measure performance when it matters
+- Build tools that make development easier
+
+---
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=thecogumeta&theme=tokyonight&hide_border=true" />
+</p>
