@@ -26,7 +26,7 @@
 </div>
 
 <p align="center">
-  <img src="https://count.getloli.com/@:thecogumeta?theme=gelbooru&padding=6&scale=1&align=top&pixelated=0&darkmode=auto"/>
+  <img src="https://count.getloli.com/@:thecogumeta?theme=gelbooru&padding=6&scale=1&align=top&pixelated=0&darkmode=0"/>
 </p>
 
 ---
