@@ -1,12 +1,6 @@
 <h1 align="center">Cogu</h1>
 
 <p align="center">
-  <a href="https://discord.com/users/1477517765219979435">
-    <img src="https://lanyard.cnrad.dev/api/1477517765219979435?theme=dark"/>
-  </a>
-</p>
-
-<p align="center">
   Software & Systems Developer
 </p>
 
