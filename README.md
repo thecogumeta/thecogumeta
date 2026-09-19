@@ -6,15 +6,19 @@
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="34"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" height="34"/>
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neoovim/neovim-original.svg" height="34"/>
 <img width="10"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="34"/>
 <img width="10"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="34"/>
 <img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="34"/>
+<img width="10"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="34"/>
 <img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="34"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="34"/>
 <img width="10"/>
 
 </div>
@@ -27,14 +31,15 @@
 
 <h3 align="center">About</h3>
 <p align="center">
-  Developer focused on tooling, systems and performance.<br/>
-  Building <a href="https://github.com/thecogumeta/rbx-acidsignal">rbx-acidsignal</a>,
-  <a href="https://github.com/thecogumeta/rbx-specium">rbx-specium</a>,
-  <a href="https://github.com/thecogumeta/goodpool">goodpool</a> and more.
+  I fell so sigma today
 </p>
 
 ---
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=thecogumeta&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=thecogumeta&layout=donut&langs_count=5&theme=tokyonight&hide_border=true" />
 </p>
