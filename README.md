@@ -8,7 +8,7 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" height="34"/>
 <img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neoovim/neovim-original.svg" height="34"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" height="34"/>
 <img width="10"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="34"/>
 <img width="10"/>
